@@ -24,6 +24,6 @@ The following are some resources that explain the hexagonal design / pattern
 - [Ports-And-Adapters / Hexagonal Architecture](http://www.dossier-andreas.net/software_architecture/ports_and_adapters.html)
 
 ## Execute ##
-mvn clean install
-cd application
-mvn spring-boot:run
+- mvn clean install
+- cd application
+- mvn spring-boot:run
